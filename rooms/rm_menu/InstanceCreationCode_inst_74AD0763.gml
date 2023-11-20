@@ -1,0 +1,1 @@
+text = "Juegos de Resta";
